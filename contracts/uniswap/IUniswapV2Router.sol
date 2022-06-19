@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GNU
-pragma solidity >=0.6.2;
+pragma solidity >=0.5.0;
 
 interface IUniswapV2Router {
     function swapExactTokensForTokens(
